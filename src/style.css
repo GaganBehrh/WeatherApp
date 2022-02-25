@@ -1,0 +1,59 @@
+h1 {
+  color: blue;
+}
+img {
+  display: inline;
+  margin-top: -100px;
+}
+
+#day img {
+  position: relative;
+  top: -1px;
+  left: 30px;
+  display: block;
+}
+
+#day h3 {
+  text-align: center;
+}
+#row2 {
+  padding: 20px;
+}
+#citynames {
+  display: inline;
+}
+
+.container {
+  border: 1px solid rgb(194, 187, 187);
+  margin-top: 30px;
+  width: 1000px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.row h1 {
+  display: inline;
+  font-size: 100px;
+}
+.a_top_hypers li {
+  list-style: none;
+  display: inline;
+  color: #007bff;
+  padding: 10px;
+}
+.btn btn-primary {
+  display: inline;
+}
+.form-control {
+  display: inline;
+  width: 600px;
+  margin-top: 20px;
+  padding: 8px;
+}
+.btn btn-success {
+  display: inline;
+}
+
+.col-6 h2 {
+  margin-top: 20px;
+  color: grey;
+}
